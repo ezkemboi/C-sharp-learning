@@ -1,0 +1,12 @@
+/Users/ezrqnkemboi/learning/C-sharp-learning/console-app/bin/Debug/netcoreapp3.1/console-app.deps.json
+/Users/ezrqnkemboi/learning/C-sharp-learning/console-app/bin/Debug/netcoreapp3.1/console-app.runtimeconfig.json
+/Users/ezrqnkemboi/learning/C-sharp-learning/console-app/bin/Debug/netcoreapp3.1/console-app.runtimeconfig.dev.json
+/Users/ezrqnkemboi/learning/C-sharp-learning/console-app/bin/Debug/netcoreapp3.1/console-app.dll
+/Users/ezrqnkemboi/learning/C-sharp-learning/console-app/bin/Debug/netcoreapp3.1/console-app.pdb
+/Users/ezrqnkemboi/learning/C-sharp-learning/console-app/obj/Debug/netcoreapp3.1/console-app.csprojAssemblyReference.cache
+/Users/ezrqnkemboi/learning/C-sharp-learning/console-app/obj/Debug/netcoreapp3.1/console-app.csproj.CoreCompileInputs.cache
+/Users/ezrqnkemboi/learning/C-sharp-learning/console-app/obj/Debug/netcoreapp3.1/console-app.AssemblyInfoInputs.cache
+/Users/ezrqnkemboi/learning/C-sharp-learning/console-app/obj/Debug/netcoreapp3.1/console-app.AssemblyInfo.cs
+/Users/ezrqnkemboi/learning/C-sharp-learning/console-app/obj/Debug/netcoreapp3.1/console-app.dll
+/Users/ezrqnkemboi/learning/C-sharp-learning/console-app/obj/Debug/netcoreapp3.1/console-app.pdb
+/Users/ezrqnkemboi/learning/C-sharp-learning/console-app/obj/Debug/netcoreapp3.1/console-app.genruntimeconfig.cache
