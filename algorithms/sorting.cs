@@ -1,4 +1,5 @@
 using System;
+using System.Linq;
 
 namespace insertion_sort 
 {
@@ -7,8 +8,14 @@ namespace insertion_sort
     static void Main(string[] args) 
     {
       int[] unsortedArr = {5, 2, 4, 6, 1, 3};
+      int[] sortedArr = {1, 2, 3, 4, 5, 6};
       InsertionSort(unsortedArr);
-      print(unsortedArr);
+      if(checkEquality(unsortedArr, sortedArr)) {
+        Console.WriteLine("Equal");
+      } 
+      else {
+        Console.WriteLine("Not Equal");
+      }
     }
     // create a method for perfoming insertion sort
     static void InsertionSort(int[] arr) {
@@ -28,6 +35,9 @@ namespace insertion_sort
       for(int i = 0; i < arr.Length; i++) {
         Console.WriteLine(arr[i]); // 1, 2, 3, 4, 5, 6
       }
+    }
+    static bool checkEquality(int[] first, int[] second) {
+      return Enumerable.SequenceEqual(first, second);
     }
   }
 }
